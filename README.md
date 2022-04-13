@@ -1,6 +1,7 @@
-Hello 👋 I am Garry
-
 <p align='center'>
+  Hello 👋 I am Garry
+
+
   I am a back-end developer Java
 </p>
 <p align='center'>
