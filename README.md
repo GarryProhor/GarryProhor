@@ -2,9 +2,7 @@
   Hello 👋 I am Garry
 </p>
 
-<p align='center'>
-  //I am a back-end developer Java
-</p>
+
 <p align='center'>
   
   
